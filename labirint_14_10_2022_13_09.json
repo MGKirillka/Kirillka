@@ -1,0 +1,422 @@
+[
+    {
+        "book_title": "Глубокое обучение на Python",
+        "book_author": "Шолле Франсуа",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "2823",
+        "book_old_price": "3619"
+    },
+    {
+        "book_title": "Микропроцессорные системы. Применение микроконтроллеров семейства AVR для управления внешними устр.",
+        "book_author": "Сонькин Михаил Аркадьевич и др.",
+        "book_publishing": "Инфра-Инженерия",
+        "book_new_price": "724",
+        "book_old_price": "1317"
+    },
+    {
+        "book_title": "Основы визуального программирования в среде Visual Studio на базе C#",
+        "book_author": "Мартыненко Татьяна Владимировна и др.",
+        "book_publishing": "Инфра-Инженерия",
+        "book_new_price": "908",
+        "book_old_price": "1651"
+    },
+    {
+        "book_title": "Пять строк кода. Роберт Мартин рекомендует",
+        "book_author": "Клаусен Кристиан",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "1701",
+        "book_old_price": "2181"
+    },
+    {
+        "book_title": "Python. Исчерпывающее руководство",
+        "book_author": "Бизли Дэвид",
+        "book_publishing": "Питер:Для профессионалов",
+        "book_new_price": "2240",
+        "book_old_price": "2872"
+    },
+    {
+        "book_title": "Практикум по анализу данных на языках Python и R. Учебное пособие",
+        "book_author": "Баюк Олег Александрович и др.",
+        "book_publishing": "Прометей",
+        "book_new_price": "499",
+        "book_old_price": "908"
+    },
+    {
+        "book_title": "Знакомство с Python",
+        "book_author": "Бейдер Дэн и др.",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "2142",
+        "book_old_price": "2746"
+    },
+    {
+        "book_title": "JavaScript для начинающих",
+        "book_author": "МакГрат Майк",
+        "book_publishing": "Бомбора:Мировой компьютерный бестселлер (обложка)",
+        "book_new_price": "965",
+        "book_old_price": "1322"
+    },
+    {
+        "book_title": "Теория и практика программирования на языке Pascal",
+        "book_author": "Расолько Галина Алексеевна, Кремень Юрий Алексеевич",
+        "book_publishing": "Вышэйшая школа",
+        "book_new_price": "9796",
+        "book_old_price": "17811"
+    },
+    {
+        "book_title": "Искусственный интеллект и компьютерное зрение. Реальные проекты на Python, Keras и TensorFlow",
+        "book_author": "Коул Анирад и др.",
+        "book_publishing": "Питер:Бестселлеры O`Reilly",
+        "book_new_price": "3787",
+        "book_old_price": "4855"
+    },
+    {
+        "book_title": "Грокаем стриминг",
+        "book_author": "Фишер Джош, Ван Нин",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "1702",
+        "book_old_price": "2182"
+    },
+    {
+        "book_title": "Высокопроизводительные Python-приложения. Практическое руководство по эффективному программированию",
+        "book_author": "Горелик Миша, Йен Освальд",
+        "book_publishing": "Бомбора:Мировой компьютерный бестселлер (обложка)",
+        "book_new_price": "1499",
+        "book_old_price": "2053"
+    },
+    {
+        "book_title": "Проектирование и разработка интерфейсов пользователя. Учебное пособие. ФГОС СПО",
+        "book_author": "Шитов Виктор Николаевич, Успенский Кирилл Евгеньевич",
+        "book_publishing": "Кнорус:Среднее профессиональное образование",
+        "book_new_price": "1402",
+        "book_old_price": "2549"
+    },
+    {
+        "book_title": "JavaScript. Картинки, галереи, слайдеры. Учебное пособие для вузов",
+        "book_author": "Янцев Валерий Викторович",
+        "book_publishing": "Лань:Компьютеры и программное обеспечение",
+        "book_new_price": "2186",
+        "book_old_price": "3975"
+    },
+    {
+        "book_title": "JavaScript. Картинки, галереи, слайдеры. Учебное пособие для СПО",
+        "book_author": "Янцев Валерий Викторович",
+        "book_publishing": "Лань:Компьютеры и программное обеспечение",
+        "book_new_price": "2186",
+        "book_old_price": "3975"
+    },
+    {
+        "book_title": "Entity Framework Core в действии",
+        "book_author": "Смит Джон П.",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "2961",
+        "book_old_price": "5383"
+    },
+    {
+        "book_title": "API в разработке приложений Autodesk Inventor. Практическое руководство",
+        "book_author": "Дюймовский Пайни",
+        "book_publishing": "Инфра-Инженерия",
+        "book_new_price": "1970",
+        "book_old_price": "3581"
+    },
+    {
+        "book_title": "Python без проблем. Решаем реальные задачи и пишем полезный код",
+        "book_author": "Зингаро Даниэль",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "1617",
+        "book_old_price": "2073"
+    },
+    {
+        "book_title": "Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5",
+        "book_author": "Никсон Робин",
+        "book_publishing": "Питер:Бестселлеры O`Reilly",
+        "book_new_price": "2823",
+        "book_old_price": "3619"
+    },
+    {
+        "book_title": "Кибердзюцу. Кибербезопасность для современных ниндзя",
+        "book_author": "Маккарти Бен",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "1844",
+        "book_old_price": "2364"
+    },
+    {
+        "book_title": "Black Hat Go. Программирование для хакеров и пентестеров",
+        "book_author": "Коттманн Дэн и др.",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "2511",
+        "book_old_price": "3219"
+    },
+    {
+        "book_title": "Алгоритмы неформально. Инструкция для начинающих питонистов",
+        "book_author": "Брэдфорд Такфилд",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "1417",
+        "book_old_price": "1817"
+    },
+    {
+        "book_title": "Разработка интерфейсов. Паттерны проектирования",
+        "book_author": "Тидвелл Дженифер и др.",
+        "book_publishing": "Питер:Бестселлеры O`Reilly",
+        "book_new_price": "2766",
+        "book_old_price": "3546"
+    },
+    {
+        "book_title": "Компьютерные системы. Архитектура и программирование",
+        "book_author": "Брайант Рэндал Э., О`Халларон Дэвид",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "3702",
+        "book_old_price": "6730"
+    },
+    {
+        "book_title": "Социальная инженерия и этичный хакинг на практике",
+        "book_author": "Грей Джо",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "1481",
+        "book_old_price": "2693"
+    },
+    {
+        "book_title": "Spring быстро",
+        "book_author": "Спилкэ Лауренциу",
+        "book_publishing": "Питер",
+        "book_new_price": "2836",
+        "book_old_price": "3636"
+    },
+    {
+        "book_title": "Kali Linux. Библия пентестера",
+        "book_author": "Хаваджа Гас",
+        "book_publishing": "Питер:Для профессионалов",
+        "book_new_price": "4241",
+        "book_old_price": "5437"
+    },
+    {
+        "book_title": "Разработка мобильных приложений. Учебник",
+        "book_author": "Коржинский Сергей Николавеич",
+        "book_publishing": "Кнорус:Среднее профессиональное образование",
+        "book_new_price": "1510",
+        "book_old_price": "2745"
+    },
+    {
+        "book_title": "Интернет вещей для начинающих. Визуальное программирование микроконтроллеров семейства ESP8266",
+        "book_author": "Шамин Алексей Алексеевич",
+        "book_publishing": "Инфра-Инженерия",
+        "book_new_price": "724",
+        "book_old_price": "1317"
+    },
+    {
+        "book_title": "Моделирование систем управления. Учебник для вузов",
+        "book_author": "Семенов Анатолий Дмитриевич, Юрков Николай Кондратьевич",
+        "book_publishing": "Лань:Компьютеры и программное обеспечение",
+        "book_new_price": "2186",
+        "book_old_price": "3975"
+    },
+    {
+        "book_title": "Исследование операций. Том 2. Задачи транспортного типа. Учебник для вузов",
+        "book_author": "Трушков Александр Сергеевич",
+        "book_publishing": "Лань:Компьютеры и программное обеспечение",
+        "book_new_price": "2186",
+        "book_old_price": "3975"
+    },
+    {
+        "book_title": "Python для сетевых инженеров. Автоматизация сети, программирование и DevOps",
+        "book_author": "Чоу Эрик",
+        "book_publishing": "Питер:Для профессионалов",
+        "book_new_price": "3815",
+        "book_old_price": "4891"
+    },
+    {
+        "book_title": "Kafka в действии",
+        "book_author": "Скотт Дилан и др.",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "2221",
+        "book_old_price": "4038"
+    },
+    {
+        "book_title": "Объяснимые модели искусственного интеллекта на Python. Модель искусственного интеллекта",
+        "book_author": "Мишра Прадипта",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "1924",
+        "book_old_price": "3499"
+    },
+    {
+        "book_title": "Проектирование гибких программ",
+        "book_author": "Хансон Крис, Сассман Джеральд Джей",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "2221",
+        "book_old_price": "4038"
+    },
+    {
+        "book_title": "Идеальная работа. Программирование без прикрас",
+        "book_author": "Мартин Роберт С.",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "1361",
+        "book_old_price": "1745"
+    },
+    {
+        "book_title": "Криптографические основы блокчейн-технологий",
+        "book_author": "Ищукова Евгения Александровна и др.",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "1481",
+        "book_old_price": "2693"
+    },
+    {
+        "book_title": "Web-программирование на Python. Учебное пособие",
+        "book_author": "Янцев Валерий Викторович",
+        "book_publishing": "Лань:Компьютеры и программное обеспечение",
+        "book_new_price": "1858",
+        "book_old_price": "3379"
+    },
+    {
+        "book_title": "Web-программирование на Python. СПО",
+        "book_author": "Янцев Валерий Викторович",
+        "book_publishing": "Лань:Компьютеры и программное обеспечение",
+        "book_new_price": "1858",
+        "book_old_price": "3379"
+    },
+    {
+        "book_title": "Go. Идиомы и паттерны проектирования",
+        "book_author": "Боднер Джон",
+        "book_publishing": "Питер:Бестселлеры O`Reilly",
+        "book_new_price": "2823",
+        "book_old_price": "3619"
+    },
+    {
+        "book_title": "Python. Чистый код для продолжающих",
+        "book_author": "Свейгарт Эл",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "2263",
+        "book_old_price": "2901"
+    },
+    {
+        "book_title": "Как проектировать программы",
+        "book_author": "Фелляйзен Маттиас и др.",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "2961",
+        "book_old_price": "5383"
+    },
+    {
+        "book_title": "Введение в программирование и структуры данных",
+        "book_author": "Фислер Кати и др.",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "2221",
+        "book_old_price": "4038"
+    },
+    {
+        "book_title": "Введение в гибридные технологии разработки мобильных приложений. Учебное пособие. СПО",
+        "book_author": "Заяц Анатолий Моисеевич, Васильев Николай Павлович",
+        "book_publishing": "Лань:Компьютеры и программное обеспечение",
+        "book_new_price": "1229",
+        "book_old_price": "2235"
+    },
+    {
+        "book_title": "Программирование в САПР. Учебное пособие",
+        "book_author": "Лянг Виктор Федорович",
+        "book_publishing": "ИНФРА-М:Высшее образование. Бакалавриат",
+        "book_new_price": "3051",
+        "book_old_price": "5547"
+    },
+    {
+        "book_title": "Введение в гибридные технологии разработки мобильных приложений. Учебное пособие",
+        "book_author": "Васильев Николай Павлович, Заяц Анатолий Моисеевич",
+        "book_publishing": "Лань:Учебники для вузов. Специальная литература",
+        "book_new_price": "2149",
+        "book_old_price": "3907"
+    },
+    {
+        "book_title": "SQL. Быстрое погружение",
+        "book_author": "Шилдс Уолтер",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "1270",
+        "book_old_price": "1628"
+    },
+    {
+        "book_title": "Spring Boot по-быстрому",
+        "book_author": "Хеклер Марк",
+        "book_publishing": "Питер:Бестселлеры O`Reilly",
+        "book_new_price": "2397",
+        "book_old_price": "3073"
+    },
+    {
+        "book_title": "Параллельное программирование на современном С++",
+        "book_author": "Гримм Райнер",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "2961",
+        "book_old_price": "5383"
+    },
+    {
+        "book_title": "Устройство и программирование автономных роботов. Проекты на Python и Raspberry PI",
+        "book_author": "Стейпл Дэнни",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "1845",
+        "book_old_price": "3354"
+    },
+    {
+        "book_title": "Практический хакинг интернета вещей",
+        "book_author": "Чанцис Фотиос и др.",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "2665",
+        "book_old_price": "4846"
+    },
+    {
+        "book_title": "Spring в действии",
+        "book_author": "Уоллс Крейг",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "2961",
+        "book_old_price": "5383"
+    },
+    {
+        "book_title": "Практическое введение в решение дифференциальных уравнений в Python",
+        "book_author": "Ершов Николай Михайлович",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "1481",
+        "book_old_price": "2693"
+    },
+    {
+        "book_title": "Open Source. Разработка программ с открытым исходным кодом",
+        "book_author": "Эгбал Надья",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "2405",
+        "book_old_price": "3083"
+    },
+    {
+        "book_title": "Теоретический минимум по Computer Science. Сети, криптография и data science",
+        "book_author": "Феррейра Фило Владстон, Пиктет Мото",
+        "book_publishing": "Питер:Библиотека программиста",
+        "book_new_price": "1263",
+        "book_old_price": "1619"
+    },
+    {
+        "book_title": "Программирование в Roblox. Сделать игру - проще простого",
+        "book_author": "Брамбо Зандер",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "1427",
+        "book_old_price": "2693"
+    },
+    {
+        "book_title": "Алгоритмы. Самый краткий и понятный курс",
+        "book_author": "Луридас Панос",
+        "book_publishing": "Бомбора:Библиотека MIT",
+        "book_new_price": "607",
+        "book_old_price": "832"
+    },
+    {
+        "book_title": "Масштабируемый рефакторинг. Возвращаем контроль над кодом",
+        "book_author": "Лемер Мод",
+        "book_publishing": "Питер:Бестселлеры O`Reilly",
+        "book_new_price": "1631",
+        "book_old_price": "2091"
+    },
+    {
+        "book_title": "Многопоточный JavaScript",
+        "book_author": "Хантер Томас II, Инглиш Брайан",
+        "book_publishing": "ДМК-Пресс",
+        "book_new_price": "1924",
+        "book_old_price": "3499"
+    },
+    {
+        "book_title": "JavaScript. Визуальные редакторы. Учебное пособие для СПО",
+        "book_author": "Янцев Валерий Викторович",
+        "book_publishing": "Лань:Компьютеры и программное обеспечение",
+        "book_new_price": "1390",
+        "book_old_price": "2528"
+    }
+]
